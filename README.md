@@ -15,6 +15,7 @@ CTO de [RADS by SCIO DC](https://rads.sciodc.com) y cofundador de [SCIO DC](http
 <a href="https://rads.sciodc.com">
     <img src="https://img.shields.io/badge/RADS-333333.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="RADS" />
 </a>
+
 ### Tecnología que uso
  
 ###### Mucho
